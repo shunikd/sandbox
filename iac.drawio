@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T15:54:11.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="XIQDmm1rMK2TwodJdTxr" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:54:55.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ugxsSPXAA2zyaGpMrqjn" version="13.8.3" type="github">
   <diagram id="Wir5pQViXHOCd_Q4CroJ" name="ページ1">
     <mxGraphModel dx="1865" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="170" y="195" width="140" height="105" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-17" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="223.5" width="38" height="38" as="geometry" />
+          <mxGeometry x="220" y="217" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-22" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
           <mxGeometry x="501" y="-60" width="38" height="38" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry x="860" y="230" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-47" value="bostion" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="213.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="170" y="200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-48" value="web1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="210" width="40" height="20" as="geometry" />
