@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T14:47:43.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="IBhxSl3dMIcg-4ndXwzs" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T06:04:48.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8lxgtWWMBlPPxVEPfOov" version="13.8.3" type="github">
   <diagram id="Wir5pQViXHOCd_Q4CroJ" name="ページ1">
     <mxGraphModel dx="1865" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="640" y="350" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-23" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="204" y="420" width="40" height="40" as="geometry" />
+          <mxGeometry x="204" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VKqjONy-EOoPsvIoeT0I-24" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="1">
           <mxGeometry x="409" y="213.5" width="28" height="28" as="geometry" />
