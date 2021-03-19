@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T01:47:58.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.8" etag="vkAWWkxXIRYNkPurDuru" type="github"><diagram id="bhPy4-3zT3EHhc4yDBLX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T02:00:21.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WmbJoWe6bkIwrCnFAupL" version="14.4.8" type="github">
+  <diagram id="bhPy4-3zT3EHhc4yDBLX" name="ページ1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k0LNAzTjNDIrg39DhynH-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="72" y="130" width="328" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;" vertex="1" parent="1">
+          <mxGeometry x="131" y="260" width="61" height="36.84" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.azure;" vertex="1" parent="1">
+          <mxGeometry x="131" y="166" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="485" y="170" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-6" value="Azure" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="125" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-7" value="Office 365" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-8" value="Azure AD" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="265" y="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-10" value="Azure AD" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="485" y="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-11" value="規定のテナント" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k0LNAzTjNDIrg39DhynH-12" value="新規作成したテナント" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
