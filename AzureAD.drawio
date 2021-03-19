@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T00:45:53.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.8" etag="NNo6cfOw5xNR3LJ0YDzG" type="github"><diagram id="aR4Vq9STjDCLGSlXnX3B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T01:06:45.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="YP7HwFq4i0sSAJaOPwZZ" version="14.4.8" type="github">
+  <diagram id="aR4Vq9STjDCLGSlXnX3B" name="ページ1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="237.68" width="320" height="142.66" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="264.34000000000003" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-2" value="Microsoft Azure Active Directory" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="341.34000000000003" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="675" y="190" width="101" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-4" value="office 365" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="675" y="257" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
+          <mxGeometry x="682" y="320" width="76" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-6" value="SaaS アプリケーション" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="620" y="406" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-7" value="office building" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_office_building;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="112.68" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/it-technology/70/phoneidk-128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="135.26" y="371.34000000000003" width="60.34" height="60.34" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-14" value="" style="orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZbVZFy-etHo_OFU6xMi-9" target="-ZbVZFy-etHo_OFU6xMi-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="142.67999999999998" y="180" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-10" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="59.999999999999986" y="210" width="70" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-15" value="" style="orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZbVZFy-etHo_OFU6xMi-8" target="-ZbVZFy-etHo_OFU6xMi-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188.2299999999998" y="266.1193031386259" as="sourcePoint" />
+            <mxPoint x="260" y="279.40085516753743" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-16" value="" style="orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="-ZbVZFy-etHo_OFU6xMi-13" target="-ZbVZFy-etHo_OFU6xMi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="260" as="sourcePoint" />
+            <mxPoint x="260" y="274.9160869565218" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-17" value="" style="orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.999;exitY=0.693;exitDx=0;exitDy=0;entryX=-0.053;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="-ZbVZFy-etHo_OFU6xMi-13" target="-ZbVZFy-etHo_OFU6xMi-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="273.345" as="sourcePoint" />
+            <mxPoint x="675" y="209.87602339181285" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-18" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="65.25999999999999" y="391.75" width="70" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/icon-set-32-px/32/Coffee_Shop.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="65.25999999999999" y="310.34" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZbVZFy-etHo_OFU6xMi-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/barista/256/barista-icons_coffee-shop-sign-128.png;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry y="293.34" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
