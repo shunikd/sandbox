@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T04:59:43.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hxVI2dTbkszIpSdwNVbl" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T05:04:01.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hUwvyY3WAN59W5w0GoYJ" version="14.4.8" type="github">
   <diagram id="Sx8AlUsd3kmjBUEoW_Ly" name="ページ1">
-    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,48 @@
         </mxCell>
         <mxCell id="g6JMP2Gnu98_ucFOvaJN-11" value="サインイン時のディレクトリ切替の設定が可能" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=19.6;dy=20;boundedLbl=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-13" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="755" y="260" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-14" value="Azure AD" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="745" y="340" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-15" value="既定のテナント&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;xxxx.onmicrosoft.com&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="705" y="370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="230" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="260" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-18" value="Azure AD" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="340" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-19" value="新規作成したテナント&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;yyyy.onmicrosoft.com&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="g6JMP2Gnu98_ucFOvaJN-20" target="g6JMP2Gnu98_ucFOvaJN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="g6JMP2Gnu98_ucFOvaJN-20" target="g6JMP2Gnu98_ucFOvaJN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-20" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;strokeColor=#FF0000;strokeWidth=4;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="870" y="40" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-23" value="管理" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-24" value="管理" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g6JMP2Gnu98_ucFOvaJN-25" value="Azure 管理者" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="990" y="40" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
